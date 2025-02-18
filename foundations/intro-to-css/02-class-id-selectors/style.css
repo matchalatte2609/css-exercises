@@ -1,0 +1,17 @@
+.odd {
+  background-color: pink;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.three {
+  font-size: 24px;
+}
+.id#two{
+  font-size: 36px;
+  color: blue;
+}
+.id#four{
+  font-size: 24px;
+  background-color: #90ee90;
+  font-weight: bold;
+}
